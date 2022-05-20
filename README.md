@@ -24,7 +24,7 @@ $ git clone <https://github.com/FelipeRomao/feedback-web>
 $ cd feedback-web
 
 # Instale as dependências
-$ npm install
+$ npm run dev
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm start
